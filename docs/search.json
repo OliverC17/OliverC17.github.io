@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "OliverC17.github.io",
+    "section": "",
+    "text": "This is a Quarto website."
+  },
+  {
+    "objectID": "index.html#quick-python-check",
+    "href": "index.html#quick-python-check",
+    "title": "OliverC17.github.io",
+    "section": "Quick Python Check",
+    "text": "Quick Python Check\nimport pandas as pd\ndf = pd.DataFrame({ “Item”: [“A”, “B”, “C”], “Value”: [10, 20, 30] }) df"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]

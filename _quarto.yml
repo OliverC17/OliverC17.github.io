@@ -1,0 +1,10 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "OliverC17 Website"
+
+execute:
+  enabled: true
+  freeze: false

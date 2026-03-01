@@ -1,0 +1,9 @@
+Assignment 03/data/
+*.csv
+*.parquet
+_site/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+__pycache__/
