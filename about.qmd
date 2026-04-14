@@ -2,4 +2,19 @@
 title: "About"
 ---
 
-About this site
+# Zifan Chen
+
+![](images/profile.jpg){width=200px}
+
+Master of Science in Applied Business Analytics candidate at Boston University, with a strong background in corporate banking, financial analysis, and international economic research.
+
+Currently working as a Corporate Banking Associate at Bank of China (Toronto Branch), I support relationship management, credit analysis, and syndicated loan operations across industries including energy, real estate, transportation, and manufacturing.
+
+My academic and professional experience focuses on:
+- Corporate finance and credit risk analysis  
+- Cross-border trade and financial services  
+- Macroeconomic policy and financial risk assessment  
+
+I have been actively involved in research projects analyzing the impact of U.S. tariff policies on Canada and developing strategic responses for financial institutions. These experiences have strengthened my ability to connect macroeconomic trends with practical financial decision-making.
+
+My career goal is to pursue roles in corporate banking, investment banking, or financial strategy, where I can leverage both analytical skills and client-facing experience to deliver value in complex financial environments.

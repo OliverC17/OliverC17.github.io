@@ -1,10 +1,21 @@
 project:
   type: website
-  output-dir: _site
 
 website:
-  title: "OliverC17 Website"
+  title: "My Portfolio"
+  navbar:
+    left:
+      - text: About You
+        href: about.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
 
-execute:
-  enabled: true
-  freeze: false
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
